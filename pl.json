@@ -381,7 +381,7 @@
   "useTheTessieApiToViewAndControlYourTesla": "Użyj API Tessie do podglądu i sterowania Teslą, analizy historii oraz innych funkcji",
   "visit": "Odwiedź",
   "developertessiecom": "developer.tessie.com",
-  "forGuidesAndInteractiveDocumentation": "aby zapoznać przeczytać opis i zapoznać się z interaktywną dokumentacją",
+  "forGuidesAndInteractiveDocumentation": "aby przeczytać opisy i zapoznać się z interaktywną dokumentacją",
   "generateAccessToken": "Wygeneruj token dostępowy",
   "signInToDeveloperPortal": "Zarejestruj się na portalu deweloperskim",
   "anyApplicationsOrScriptsUsingThisTokenWillNoLonger": "Żadna aplikacja lub skrypt, który będzie używać tego tokena, nie będą już miały dostępu do API. Nie da się tego cofnąć.",
